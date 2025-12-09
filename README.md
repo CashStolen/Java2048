@@ -10,9 +10,11 @@ javac -d out src\Procedure.java src\MainFrame.java//windows
 javac -d out src/Procedure.java src/MainFrame.java//linux/mac
 
 ### Run
-cd out
+java -cp . Procedure
 
-java Procedure
+or
+
+use your VS_code/IDEA java interpret shortcut
 
 > Note: Image resources use **relative path `images/`**,  
 > so please run the program from the **project root directory**.
