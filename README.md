@@ -2,16 +2,6 @@
 
 A simple implementation of the classic **2048 game** using **Java + Swing**.
 
-## Project Structure
-
-Java2048/
-├── src/
-│ ├── MainFrame.java
-│ └── Procedure.java
-├── images/
-│ └── *.png
-└── README.md
-
 ## Run
 
 ### Compile
