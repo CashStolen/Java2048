@@ -6,7 +6,9 @@ A simple implementation of the classic **2048 game** using **Java + Swing**.
 
 ### Compile
 javac -d out src\Procedure.java src\MainFrame.java//windows
+
 javac -d out src/Procedure.java src/MainFrame.java//linux/mac
+
 ### Run
 cd out
 java Procedure
