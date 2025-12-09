@@ -1,4 +1,3 @@
-package src;
 public class Procedure {
     public static void main(String[] args) {
         new MainFrame();
