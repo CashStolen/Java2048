@@ -11,6 +11,7 @@ javac -d out src/Procedure.java src/MainFrame.java//linux/mac
 
 ### Run
 cd out
+
 java Procedure
 
 > Note: Image resources use **relative path `images/`**,  
