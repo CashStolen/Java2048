@@ -18,7 +18,7 @@ java Procedure
 - Classic 4×4 board  
 - Uses Swing for UI  
 - Tile images stored in `/images`  
-- Core logic in `Procedure.java`
+- Core logic in `MainFrame.java`
 
 ## Author
 CashStolen
