@@ -10,7 +10,7 @@ javac -d out src\Procedure.java src\MainFrame.java//windows
 javac -d out src/Procedure.java src/MainFrame.java//linux/mac
 
 ### Run
-java -cp . Procedure
+java -cp out Procedure
 
 or
 
